@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:07:31 +0530] "POST /NoteTaker/SaveNotesServlet HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:08:07 +0530] "POST /NoteTaker/SaveNotesServlet HTTP/1.1" 404 1046
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:10:50 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 3107
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:10:50 +0530] "GET /NoteTaker/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:10:54 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 2519
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:10:57 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 2519
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:10:58 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 2519
+0:0:0:0:0:0:0:1 - - [27/Jun/2023:12:11:00 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 3107

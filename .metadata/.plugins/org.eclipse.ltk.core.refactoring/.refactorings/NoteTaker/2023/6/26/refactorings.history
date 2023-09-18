@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NoteTaker/src/main/webapp/All_js_css.jsp&apos; to &apos;all_js_css.jsp&apos;" description="Rename resource &apos;All_js_css.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/All_js_css.jsp" name="all_js_css.jsp" stamp="1687685559553" updateReferences="true"/>
+</session>
